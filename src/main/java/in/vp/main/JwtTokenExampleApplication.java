@@ -1,9 +1,9 @@
-package in.vp.main;
+// package in.vp.main;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+// import org.springframework.boot.SpringApplication;
+// import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+// @SpringBootApplication
 public class JwtTokenExampleApplication {
 
 	public static void main(String[] args) {
